@@ -15,3 +15,8 @@ Service for Demo Spring Reactive with Hexagonal Pattern Adapters, Ports and Rout
 | Web                     | Handler                                            | Recibe la solicitud, invoca el caso de uso |
 | RouterFunction          | Mapea la ruta a un handler                         |
 
+
+### Diagrama de Operaciones
+
+![img.png](img.png)
+
